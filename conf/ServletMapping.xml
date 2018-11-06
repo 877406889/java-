@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- conf/ServletMapping.xml -->
+<mappings>
+	<mapping uri="/myweb/reg" classname="servlets.RegServlet"></mapping>
+	<mapping uri="/myweb/login" classname="servlets.LoginServlet"></mapping>
+	<mapping uri="/web/reg" classname="servlets.WebRegServlet"></mapping>
+</mappings>
